@@ -30,7 +30,8 @@ Well familiar with this cloud environment; Azure Synapse, Azure SQL Server and G
 
 🧰Toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python logo" width="50" height="50" title="Python for Data" /> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="postgresql logo" width="50" height="50" title="PostgreSQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" alt="mysql logo" width="50" height="50" title="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original.svg" alt="jupyternotebook logo" width="50" height="50" title="Jupyter Notebook for Data" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python logo" width="50" height="50" title="Python for Data" /> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" alt="postgresql logo" width="50" height="50" title="PostgreSQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" alt="mysql logo" width="50" height="50" title="MySQL" /> <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jupyter/jupyter-original.svg" alt="jupyternotebook logo" width="50" height="50" title="Jupyter Notebook for Data" /> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Airflow logo" width="50" height="50" title="Apache Airflow for Data Pipeline Job Scheduling" /> 
+
 
 
 
